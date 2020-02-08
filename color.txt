@@ -1,2 +1,8 @@
 main - #5e64b1
+<<<<<<< Updated upstream
 sub - #ff7531
+=======
+sub - #ff7531
+
+테스트 중입니다.
+>>>>>>> Stashed changes
