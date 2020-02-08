@@ -1,8 +1,7 @@
 main - #5e64b1
 sub - #ff7531
 
-<<<<<<< Updated upstream
 test
-=======
+
 어렵네요 힘내세요!
->>>>>>> Stashed changes
+
